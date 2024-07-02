@@ -1,4 +1,4 @@
-# SSL Certificate Management Script
+# SSL Certificate Management console
 
 ## Date: 07/02/2024
 
